@@ -1,2 +1,7 @@
 *.class
 *.jar
+*.idea/
+*.iml
+*.DS_Store
+out/
+*$*.docx
